@@ -1,0 +1,44 @@
+html {
+  color: white;
+  background: url(bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.field{
+  display: block;
+  padding: 10px;
+  margin:auto;
+  border-radius: 20px;
+  border:none;
+}
+
+.main{
+  margin:auto;
+  border-radius: 100px;
+  margin-top: 15%;
+  text-align: center;
+  border:solid 5px;
+  width: 50%;
+}
+
+button{
+  margin-top: 10px;
+  padding:10px 30px 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  font-weight: bolder;
+  border:none;
+}
+
+button:hover{
+  background-color: #08ffea;
+  cursor:grab;
+}
+
+.field-container{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
