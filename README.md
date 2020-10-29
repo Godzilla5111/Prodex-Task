@@ -1,2 +1,2 @@
 # A-Simple-Login-Page
-This is a very simple login page. It was assigned as the first task by ProDex.
+This task was assigned by ProDex during the Durga Puja break.
